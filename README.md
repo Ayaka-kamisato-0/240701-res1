@@ -11,9 +11,9 @@ Markdown 使用规范
 ## 列表
 to do list:
 
-1.[ ]leetcode
++[ ]leetcode
 
-2.[x]期末周
++[x]期末周
 
 ## 代码
 'int main()'
