@@ -1,3 +1,18 @@
 # 240701-res1
-大一的一些东西
-这是一个[链接](https://rvzkyi.aitianhu1.top/#/chat/1002)
+Markdown 使用规范
+
+## 字体
+*斜体* **
+**加粗** ** **
+***斜体加粗*** *** ***
+
+## 列表
+to do list:
+[ ]leetcode
+[x]期末周
+
+## 代码
+'int main()'
+
+## 连接与图片
+[Ayaka](https://www.bilibili.com/video/BV1Ru411Z7c1/?spm_id_from=333.337.search-card.all.click)
